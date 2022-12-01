@@ -1,6 +1,6 @@
 # Computational_Biology_PDFs_CMU
 
-3 month internship in Computational Biology in CMU.
+2 month internship in Computational Biology in CMU.
 
 Due to domain mismatch I left this project.
 
