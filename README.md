@@ -1,7 +1,3 @@
 # Computational_Biology_PDFs_CMU
 
-2 month internship in Computational Biology in CMU.
-
-Due to domain mismatch I left this project.
-
-I am uploading some pdfs I made during the internship time.
+This GitHub repository houses pdf files generated during my two-month internship at Carnegie Mellon University. Although I withdrew from the project because of a domain mismatch, these documents highlight the research I conducted during my tenure.
